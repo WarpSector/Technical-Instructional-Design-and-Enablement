@@ -90,7 +90,12 @@ Using the 4-MAT framework as the *macro-architecture* and Cognitive Load Theory 
 <br><br/>
 * **Real-Time Telemetry:** In the synchronous sessions, I built in "air time" and live knowledge checks. This acted as system telemetry, allowing the instructor to provide "just-in-time" enablement if a cohort struggled with a compliance concept.
 <br><br/>
-![E-Learning TOC and Visual Progression Markers](./assets/your-toc-screenshot.png)
+#### Real-Time Telemetry in the Solo e-Learning (Knowledge Checks/Formative Assessment with Real-Time Feedback)
+![E-Learning TOC and Visual Progression Markers](../Case%20Study%20Assets/05-EBP-QASKC-01.png)
+![E-Learning TOC and Visual Progression Markers](../Case%20Study%20Assets/06-EBP-QASKC-02.png)
+#### Real-Time Telemetry in the VILT/ILT Sessions (Class Discussions, Group Activities, Knowledge checks)
+![E-Learning TOC and Visual Progression Markers](../Case%20Study%20Assets/07-EBP-VILTKC-01.png)
+![E-Learning TOC and Visual Progression Markers](../Case%20Study%20Assets/08-EBP-VILTKC-02.png)
 <br><br/>
 ### 3. HOW (Sandboxed (Breakout) Execution & Maximizing Germane Load)
 * **The Sandbox Environment:** The hands-on case studies were the "star of the show." SMEs developed mock workpapers that mirrored the exact participant transaction testing the auditors would perform in the live environment.
