@@ -24,7 +24,7 @@ I approach instructional design as a process for ***engineering human performanc
 <br><br/>
     * **`Germane Load Balancing:`** Dedicating maximum attention to immediate hands-on application of learning materials during event-driven training (re: knowledge checks, hands-on labs/simulations, activities, peer-to-peer learning) and when consuming enablement solutions "in-the-flow-of-work" (re: step-by-step instructions, visual workflow diagrams, output validation signals to look for).
 <br><br/>
-## 🚀 Building the Enablement Pipeline
+## 🏗️ Building the Enablement Pipeline
 ### 70/20/10 Learning Ecosystem
   * **`70% - "In-the-Flow of Work" Enablement Solutions:`** This is the ***immediate*** “experiential layer” of the learning ecosystem where just-in-time MVI enablement solutions (re: “firmware updates”) are provided to remove blockers, thus avoiding the friction of context switching to a formal event-driven training session or a solo e-learning course.
 <br><br/>
@@ -32,7 +32,7 @@ I approach instructional design as a process for ***engineering human performanc
 <br><br/>
   * **`10% - Formal, Structured Event-Driven Training Sessions:`** This as the “boot sequence” of the learning ecosystem to initialize baseline knowledge and skills and where scaled up event-driven training sessions are built and deployed. This "baseline layer" is the foundation of the learning ecosystem upon which the "experiental" and "social" layers exist. 
 <br><br/>
-## 🧭 ADDIE Learning Development Lifecycle: Visual Workflow
+## 🧭 Visual Workflow: ADDIE Learning Development Lifecycle
 ### Building Formal and Structured Event-Driven Training Solutions
 ```mermaid
 graph TD
@@ -49,7 +49,7 @@ graph TD
     P4["<b><center>Phase 4: Implement 🚀</center></b><br/><hr/><br/><b>Alpha --> Beta --> Gold Review</b><br/>Technical Validation by SME.<br/>Peer Review of Course Design.<br/>Test the Technology to Eliminate UI/UX Friction.<br/><br/><b>Prepare for Deployment</b><br/>Train-the-Trainer for Facilitators."]
 
     %% --- Phase 5: Evaluate ---
-    P5["<b><center>Phase 5: Evaluate 📈</center></b><br/><hr/><br/><b>Kirkpatrick's 4 Levels</b><br/><br/>L1: Crowdsource Immediate Reaction from Learners.<br/><br/>L2: Assess Knowledge Retention via Transfer of Learning Assessments<br/><br/>L3: Evaluate In-Field Skills Application via Performance Reviews<br/><br/>L4: Measure the Delta: Compare Success Metrics BEFORE and AFTER the Training."]
+    P5["<b><center>Phase 5: Evaluate 📈</center></b><br/><hr/><br/><b>Kirkpatrick's 4 Levels</b><br/><br/><b>L1:</b> Gather Immediate Feedback from Learners.<br/><br/><b>L2:</b> Assess Knowledge Retention via Transfer of Learning Assessments.<br/><br/><b>L3:</b> Evaluate Skill Application via Performance Reviews.<br/><br/><b>L4:</b> Measure the Delta: Compare Success Metrics BEFORE and AFTER the Training."]
 
     %% --- The Main Flow ---
     P1 ==> |Deployment Strategy:<br/>VILT, ILT, or Solo e-Learning| P2
@@ -74,10 +74,33 @@ graph TD
     class P4 prod;
     class P5 eval;
 ```
----
-| System Phase | ADDIE (Macro-Lifecycle) | 4-MAT (User Pipeline) | CLT (Physics Engine) | 70/20/10 (Ecosystem Node) |
-| :--- | :--- | :--- | :--- | :--- |
-| **1. Initialization & Alignment** | **Analysis & Design:** Running root-cause analysis and blueprinting the Enabling/Performance Objectives. | **WHY:** Establishing the business case and WIIFM to connect the workflow to the practitioner. | **Minimize Extraneous Load:** Increasing the Signal-to-Noise Ratio (SNR). Stripping away corporate fluff so the "RAM" is clear. | **10% (Boot Sequence):** The formal project kickoff or strategic alignment session. |
-| **2. Syntax & Data Transfer** | **Develop:** Engineering the actual payload (documentation, micro-learnings, UI/UX). | **WHAT:** Delivering the core rules, APIs, and theoretical architecture of the new workflow. | **Throttle Intrinsic Load:** "Chunking" complex data into digestible inputs to prevent working memory buffer overrun. | **10% (Boot Sequence):** Formal e-learning or VILT modules for baseline knowledge transfer. |
-| **3. Sandboxed Execution** | **Implement:** Deploying the solution via guided Train-the-Trainer (T3) or User Acceptance Testing (UAT). | **HOW:** Moving from passive consumption to active, hands-on application. | **Maximize Germane Load:** Forcing the brain to "write to the database" via friction-heavy labs and output validation signals. | **20% (Social Layer):** Peer-to-peer learning, SME office hours, and collaborative hackathons. |
-| **4. Production & Telemetry** | **Evaluate:** Monitoring system health, gathering UX feedback, and tracking Level 3/4 behavior changes. | **WHAT IF:** Stretching the commits, troubleshooting edge cases, and handling anomalies. | **Externalize the Load:** Offloading edge-case memory requirements to external storage (runbooks, wikis) to avoid system crash. | **70% (Experiential Layer):** Shipping MVI (Minimum Viable Instruction) and "firmware updates" directly in the flow of work. |
+## 🚀 Visual Workflow: MVI Learning Development Lifecyle
+### Building "In-the-Flow of Work" Enablement Solutions
+```mermaid
+graph TD
+    %% --- Step 1: Gap Analysis ---
+    P1["<b><center>Step 1: Gap Analysis 🔎</center></b><br/><hr/><br/><center>Identify Knowledge/Skill Gap.<br/><br/>Determine Source of Friction/Blocker.<br/><br/>Assess Learner Personas.<br/><br/>Identify Constraints.<br/><br/>Establish Metrics for Success.</center>"]
+
+    %% --- Step 2: Design & Develop ---
+    P2["<b><center>Step 2: Design & Develop 🛠️</center></b><br/><hr/><br/><b><center>Build the Enablement Solution.</b><br/><br/>Focus on Removing the Blocker and/or Reducing Friction.<br/><br/>Eliminate or Reduce Context Switching for the Learner.</center>"]
+
+    %% --- Step 3: Deploy & Evaluate ---
+    P3["<b><center>Step 3: Evaluate 📡</center></b><br/><hr/><br/><b><center>Monitor for Feedback after Deployment.</b><br/><br/>Measure the Delta: Compare Success Metrics BEFORE and AFTER the Solution has been Deployed.</center>"]
+
+    %% --- The Main Flow ---
+    P1 ==> |Enablement Solution:<br/>Microlearning, Video, QRG, or Github 'Docs-as-Code'| P2
+    P2 ==> |Deploy and Monitor| P3
+
+    %% --- The Feedback Loop ---
+    P3 ==>|Iterate on Solution until Blocker/Friction is Removed| P1
+
+    %% --- Styling ---
+    %% Using a progressive color scheme from cold (blue) to hot/live (green/orange)
+    classDef init fill:#e6f7ff,stroke:#1890ff,stroke-width:2px,color:#000,rx:10,ry:10,text-align:left;
+    classDef transfer fill:#f0f5ff,stroke:#6f42c1,stroke-width:2px,color:#000,rx:10,ry:10,text-align:left;
+    classDef exec fill:#fff7e6,stroke:#fa8c16,stroke-width:2px,color:#000,rx:10,ry:10,text-align:left;
+
+    class P1 init;
+    class P2 transfer;
+    class P3 exec;
+```
