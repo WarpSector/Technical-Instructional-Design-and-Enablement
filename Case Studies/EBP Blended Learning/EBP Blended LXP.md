@@ -53,7 +53,7 @@ With the gap analysis and instructional strategy locked in, I continued partneri
 ### System Inputs & Measurable Outputs:
 Rather than building content first, I applied **backwards design** to reverse-engineer the exact workflows auditors would perform in the field. I defined the required outputs (**Performance Objectives**) and mapped them to the specific in-course knowledge inputs (**Enabling Objectives**) required to achieve them. This created a highly structured, measurable blueprint for the entire pipeline.
 <br><br/>
-![System Blueprint: Mapping Enabling Inputs to Performance Outputs](./assets/your-blueprint-screenshot.png)
+![System Blueprint: Mapping Enabling Inputs to Performance Outputs](../Case%20Study%20Assets/Performance%20and%20Enabling%20Objectives.png)
 <br><br/>
 ### Mapping the Learner's Journey (Applying the 4-MAT Framework):
 To safely ramp learners up to progressively complex concepts without triggering cognitive overload, I structured the learning sequence applying the **4-MAT** framework:
