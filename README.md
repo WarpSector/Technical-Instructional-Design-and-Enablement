@@ -82,7 +82,7 @@ graph TD
     P1["<b><center>Step 1: Gap Analysis 🔎</center></b><br/><hr/><br/><center>Identify Knowledge/Skill Gap.<br/><br/>Determine Source of Friction/Blocker.<br/><br/>Assess Learner Personas.<br/><br/>Identify Constraints.<br/><br/>Establish Metrics for Success.</center>"]
 
     %% --- Step 2: Design & Develop ---
-    P2["<b><center>Step 2: Design & Develop 🛠️</center></b><br/><hr/><br/><b><center>Build the Enablement Solution.</b><br/><br/>Focus on Removing the Blocker and/or Reducing Friction.<br/><br/>Eliminate or Reduce Context Switching for the Learner.</center>"]
+    P2["<b><center>Step 2: Design & Develop 🛠️</center></b><br/><hr/><br/><b><center>Build the Enablement Solution applying the 4-MAT Structure.</b><br/><br/>Focus on Removing the Blocker and/or Reducing Friction.<br/><br/>Eliminate or Reduce Context Switching for the Learner.</center>"]
 
     %% --- Step 3: Deploy & Evaluate ---
     P3["<b><center>Step 3: Evaluate 📡</center></b><br/><hr/><br/><b><center>Monitor for Feedback after Deployment.</b><br/><br/>Measure the Delta: Compare Success Metrics BEFORE and AFTER the Solution has been Deployed.</center>"]
