@@ -43,10 +43,10 @@ graph TD
     P2["<b><center>Phase 2: Design 📐</center></b><br/><hr/><br/><b><center>Apply 4-MAT</center></b><br/><br/><center><b>WHY</b><br/>Connect with the learners.<br/>What's in it for me (WIIFM)?<br/><br/><b>WHAT</b><br/>Provide knowledge and skills content.<br/>Guide the learning process.<br/><br/><b>HOW</b><br/>Learners practice what they've learned.<br/>Labs & Simulations.<br/>Peer-to-Peer Learning.<br/>Case Studies.<br/>Formative & Summative Assessments.<br/><br/><b>WHAT IF</b><br/>Enhancing Retention.<br/>Debriefs.<br/>Edge Cases.<br/>Additional Resources."]
 
     %% --- Phase 3: Develop ---
-    P3["<b><center>Phase 3: Develop 🏗️</center></b><br/><hr/><br/><b>Apply Cognitive Load Theory while Building Learning Materials</b><br/><br/><b>Instrinsic Load Balancing</B><br/>Structure & Chunk Content.</br><br/><b>Extraneous Load Balancing</b><br/>Discerte Data.<br/>High Signal-to-Noise Ratio (SNR)<br/>'Clean' Information.<br/><br/><b>Germane Load Balancing</b><br/>Maximum Attention for Activities.<br/>Optimize for Hands On Application."]
+    P3["<b><center>Phase 3: Develop 🏗️</center></b><br/><hr/><br/><b>Apply Cognitive Load Theory while Building Learning Materials</b><br/><br/><b>Instrinsic Load Balancing</B><br/>Structure & Chunk Content.</br><br/><b>Extraneous Load Balancing</b><br/>Discrete Data.<br/>High Signal-to-Noise Ratio (SNR)<br/>'Clean' Information.<br/><br/><b>Germane Load Balancing</b><br/>Maximum Attention for Activities.<br/>Optimize for Hands On Application."]
 
     %% --- Phase 4: Implement ---
-    P4["<b><center>Phase 4: Implement 🚀</center></b><br/><hr/><br/><b>Alpha --> Beta --> Gold Review</b><br/>Technical Validation by SME.<br/>Peer Review of Course Design.<br/>Test the Technology to Eliminate UI/UX Friction.<br/><br/><b>Prepare for Deployment</b><br/>Train-the-Trainer for Facilitators."]
+    P4["<b><center>Phase 4: Implement 🚀</center></b><br/><hr/><br/><b>Alpha --> Beta --> Gold Review</b><br/>Technical Validation by SME.<br/>Peer Review of Course Design.<br/>Test the Technology to Eliminate UI/UX Friction.<br/><br/><b>Prepare for Deployment</b><br/>Train-the-Trainer for Facilitators (VILT/ILT)."]
 
     %% --- Phase 5: Evaluate ---
     P5["<b><center>Phase 5: Evaluate 📈</center></b><br/><hr/><br/><b>Kirkpatrick's 4 Levels</b><br/><br/><b>L1:</b> Gather Immediate Feedback from Learners.<br/><br/><b>L2:</b> Assess Knowledge Retention via Transfer of Learning Assessments.<br/><br/><b>L3:</b> Evaluate Skill Application via Performance Reviews.<br/><br/><b>L4:</b> Measure the Delta: Compare Success Metrics BEFORE and AFTER the Training."]
@@ -74,7 +74,7 @@ graph TD
     class P4 prod;
     class P5 eval;
 ```
-## 🚀 Visual Workflow: MVI Learning Development Lifecyle
+## 🚀 Visual Workflow: Agile (MVI) Learning Development Lifecyle
 ### Building "In-the-Flow of Work" Enablement Solutions
 ```mermaid
 graph TD
