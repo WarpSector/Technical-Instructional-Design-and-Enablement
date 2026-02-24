@@ -70,11 +70,13 @@ Culminated in the successful, 100% adoption of Canvas as the new enterprise LMS,
 <br><br/>
 ### Award-Winning Incident Response
 For our team's critical work in leading the technical and operational transition during the pandemic, we were honored with the **"Overseers Excellence in Service Award"** during the 2020 University Convocation.
+### 2020 NJIT Virtual Convocation
+#### (Click the image below and skip to timestamp 29:00 for the Board of Overseers Excellence Awards if the video does not start at that timestamp)
+<br><br/>
+<div align="center"><a href="https://youtu.be/70g71c0Ml-g?si=mQWHo2y_mYFhk9tZ&t=1740"><img src="../Case Study Assets/17-NJIT-OSEA.png" width="60%" alt="Watch the 2020 NJIT Virtual Convocation"></a></div>
+<br><br/>
+<br><br/>
 
-#### *2020 NJIT Virtual Convocation (Skip to timestamp 29:00 for the Board of Overseers Excellence Awards)*
-<a href="https://youtu.be/70g71c0Ml-g?si=mQWHo2y_mYFhk9tZ&t=1740"><img src="../Case Study Assets/17-NJIT-OSEA.png" width="60%" alt="Watch the 2020 NJIT Virtual Convocation"></a>
-<br><br/>
-<br><br/>
 ## 🤖 Tooling & AI Transparency
 The crisis management strategy, proactive data migration, and SaaS integration work detailed in this case study represent my original professional execution. To format this documentation repository, I utilized AI as a technical pair-programmer to refine the Markdown syntax, optimize the narrative structure, and standardize the enterprise ID-engineering lexicon.
 
