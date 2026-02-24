@@ -1,7 +1,8 @@
 [⬅️ Back to Main Portfolio](https://www.amalrshah.com/home)
 
-# 🚀 Enterprise SaaS Replatforming & Disaster Recovery: The NJIT Canvas Migration
+---
 
+# 🚀 Enterprise SaaS Replatforming & Disaster Recovery: The NJIT Canvas Migration
 ## 🌐 Executive Summary & The Bottom Line
 ### The Impact
 I co-led the successful enterprise-wide replatforming from a legacy, open-source learning management system (Moodle) to a cloud-native SaaS environment (Canvas) for a polytechnic university. When the COVID-19 pandemic forced an immediate global lockdown, our proactive data migration strategy and rapid enablement pipelines allowed over 300 faculty stakeholders and 11,000+ end-users (students) to pivot to 100% remote synchronous learning overnight without dropping the system or losing educational continuity. For our execution during this crisis, our team was awarded the **[2020 Board of Overseers Excellence in Service Award](https://www.njit.edu/provost/award-winners-convocation-2020)**.
@@ -75,7 +76,7 @@ For our team's critical work in leading the technical and operational transition
 <br><br/>
 <br><br/>
 ## 🤖 Tooling & AI Transparency
-The crisis management strategy, proactive data migration, and SaaS integration work detailed in this case study represent my original professional execution. To format this documentation repository, I utilized AI as a technical pair-programmer to refine the Markdown syntax, optimize the narrative structure, and standardize the enterprise engineering lexicon.
+The crisis management strategy, proactive data migration, and SaaS integration work detailed in this case study represent my original professional execution. To format this documentation repository, I utilized AI as a technical pair-programmer to refine the Markdown syntax, optimize the narrative structure, and standardize the enterprise ID-engineering lexicon.
 
 ---
 
