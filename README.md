@@ -26,6 +26,36 @@ I approach instructional design as a process for ***engineering human performanc
 <br><br/>
     * **`Germane Load Balancing:`** Dedicating maximum attention to immediate hands-on application of learning materials during event-driven training (re: knowledge checks, hands-on labs/simulations, activities, peer-to-peer learning) and when consuming enablement solutions "in-the-flow-of-work" (re: step-by-step instructions, visual workflow diagrams, output validation signals to look for).
 <br><br/>
+## 🔗 Architectural Synergy: 4-MAT & Cognitive Load Theory (CLT)
+### Mapping the 4-MAT Macro-Architecture to the CLT Micro-Design Filter
+```mermaid
+graph TD
+    %% --- The 4-MAT Phases (Macro) ---
+    WHY["<b>WHY (Context)</b><br/><hr/>Establish WIIFM &<br/>Anchor Attention"]:::mat
+    WHAT["<b>WHAT (Syntax)</b><br/><hr/>Transfer Core Data<br/>& Concepts"]:::mat
+    HOW["<b>HOW (Execution)</b><br/><hr/>Sandboxed Labs & Hands-On Practice"]:::mat
+    WHATIF["<b>WHAT-IF (Production)</b><br/><hr/>Edge Cases &<br/>Resources"]:::mat
+
+    %% --- The CLT Applications (Micro) ---
+    CLT1["<b>Schema Activation</b><br/><hr/>Pre-load working memory with familiar concepts to reduce initial friction."]:::clt
+    CLT2["<b>Throttle System Load</b><br/><hr/>Chunk data (Intrinsic) and strip out noise (Extraneous)."]:::clt
+    CLT3["<b>Maximize Germane Load</b><br/><hr/>Immerse in active execution to build long-term retention."]:::clt
+    CLT4["<b>Externalize Memory</b><br/><hr/>Deploy MVI/Job Aids to reduce friction and remove blockers in production."]:::clt
+
+    %% --- Relationships ---
+    WHY ==>|Filtered via| CLT1
+    WHAT ==>|Filtered via| CLT2
+    HOW ==>|Filtered via| CLT3
+    WHATIF ==>|Filtered via| CLT4
+
+    %% --- Horizontal Journey ---
+    WHY -.-> WHAT -.-> HOW -.-> WHATIF
+
+    %% --- Styling ---
+    classDef mat fill:#1890ff,stroke:#0050b3,stroke-width:2px,color:#fff,rx:5,ry:5,text-align:center;
+    classDef clt fill:#f6ffed,stroke:#52c41a,stroke-width:2px,color:#000,rx:5,ry:5,text-align:center;
+```
+
 ## 🏗️ Building the Enablement Pipeline
 ### 70/20/10 Learning Ecosystem
   * **`70% - "In-the-Flow of Work" Enablement Solutions:`** This is the ***immediate*** “experiential layer” of the learning ecosystem where just-in-time MVI enablement solutions (re: “firmware updates”) are provided to remove blockers, thus avoiding the friction of context switching to a formal event-driven training session or a solo e-learning course.
@@ -106,4 +136,9 @@ graph TD
     class P2 transfer;
     class P3 exec;
 ```
+## 🤖 Tooling & AI Transparency
+The core instructional design philosophy, methodology, and application of frameworks detailed in this repository are my original concepts and reflect my professional practice. To build this documentation repository, I utilized AI as a technical pair-programmer to refine the Markdown syntax, standardize/translate the ID-Engineering lexicon, and to generate the boilerplate Mermaid.js data visualizations.
+
+---
+
 [⬅️ Back to Main Portfolio](https://www.amalrshah.com/home)
