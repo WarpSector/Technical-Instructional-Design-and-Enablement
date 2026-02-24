@@ -1,3 +1,5 @@
+[⬅️ Back to Main Portfolio](https://www.amalrshah.com/home)
+<br><br/>
 # Core Instructional Design Philosophy and Methodology
 ## 📜 My Philosophy
 I approach instructional design as a process for ***engineering human performance***. By treating instructional design frameworks like ADDIE and 4-MAT as learning systems architecture, I build scalable enablement pipelines that minimize cognitive friction during the learning process. I've outlined my process below.
