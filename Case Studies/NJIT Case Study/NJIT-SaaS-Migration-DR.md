@@ -37,6 +37,7 @@ Over several months, I partnered with one other Instructional Designer to manual
 ### Enablement Roadmap
 Anticipating the need for scalable onboarding, I designed and deployed self-paced enablement tutorials for both faculty (creators) and students (end-users). This self-serve documentation acted as a critical buffer, drastically reducing support tickets during the transition.
 #### *Pre-Deployed Enablement Artifacts (Self-Paced Tutorial Course Cards as seen in Canvas LMS)*
+<br><br/>
 <div align="center"><img src="../Case Study Assets/15-NJIT-FacO.png" alt="Faculty Tutorial Course Card"></img><img src="../Case Study Assets/16-NJIT-StudentO.png" alt="StudentTutorial Course Card"></img></div>
 <br><br/>
 <br><br/>
@@ -69,8 +70,9 @@ Culminated in the successful, 100% adoption of Canvas as the new enterprise LMS,
 <br><br/>
 ### Award-Winning Incident Response
 For our team's critical work in leading the technical and operational transition during the pandemic, we were honored with the **"Overseers Excellence in Service Award"** during the 2020 University Convocation.
+<br><br/>
 ### 2020 NJIT Virtual Convocation
-#### (Click the image below and skip to timestamp 29:00 for the Board of Overseers Excellence Awards if the video does not start at that timestamp)
+Click the image below and skip to timestamp 29:00 for the Board of Overseers Excellence Awards if the video does not start at that timestamp.
 <br><br/>
 <div align="center"><a href="https://youtu.be/70g71c0Ml-g?si=mQWHo2y_mYFhk9tZ&t=1740"><img src="../Case Study Assets/17-NJIT-OSEA.png" width="60%" alt="Watch the 2020 NJIT Virtual Convocation"></a></div>
 <br><br/>
