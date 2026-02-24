@@ -1,4 +1,4 @@
-[⬅️ Back to Main Portfolio](https://www.amalrshah.com/home) | [📖 Read My Enablement Methodology](../../README.md)
+[⬅️ Back to Main Portfolio](https://www.amalrshah.com/home)
 
 ---
 
@@ -20,7 +20,7 @@ The firm required a scalable learning solution to expand its Employee Benefit Pl
 <br><br/>
 ### My Roles:
 * Lead Instructional Designer
-* Enablement Project Manager
+* Project Manager
 * Technical Producer & Moderator
 <br><br/>
 <br><br/>
@@ -53,6 +53,7 @@ With the gap analysis and instructional strategy locked in, I continued partneri
 ### System Inputs & Measurable Outputs:
 Rather than building content first, I applied **backwards design** to reverse-engineer the exact workflows auditors would perform in the field. I defined the required outputs (**Performance Objectives**) and mapped them to the specific in-course knowledge inputs (**Enabling Objectives**) required to achieve them. This created a highly structured, measurable blueprint for the entire pipeline.
 <br><br/>
+#### *Performance Objectives: The Output Learners will be Capable of Executing at the End of the Session mapped to Enabling Objectives: Instructional Inputs Enabling Learners to Achieve Performance Objectives*
 ![System Blueprint: Mapping Enabling Inputs to Performance Outputs](../Case%20Study%20Assets/01-EBP-Objectives.png)
 <br><br/>
 ### Mapping the Learner's Journey (Applying the 4-MAT Framework):
@@ -81,6 +82,7 @@ Using the 4-MAT framework as the *macro-architecture* and Cognitive Load Theory 
 <br><br/>
 * **Gamified Schema Activation:** For the live VILT/ILT sessions, I architected a Jeopardy-style gamification board to break down social friction for group work and reinforce baseline knowledge from the prerequisite e-learning.
 <br><br/>
+#### *Gamification via Jeopardy Scoreboard: Reinforce Baseline Knowledge + Break Down Barriers to Learning + Reduce Social Friction for Group Dynamics*
 ![Jeopardy Gamification Board 1](../Case%20Study%20Assets/02-EBP-Jeopardy-01.png)
 ![Jeopardy Gamification Board 2](../Case%20Study%20Assets/03-EBP-Jeopardy-02.png)
 ![Jeopardy Gamification Board 3](../Case%20Study%20Assets/04-EBP-Jeopardy-03.png)
@@ -88,12 +90,15 @@ Using the 4-MAT framework as the *macro-architecture* and Cognitive Load Theory 
 ### 2. WHAT (Data Transfer & Throttling Intrinsic Load)
 * **Content Virtualization:** I procured raw data from the Department of Labor (DOL), internal firm resources, SMEs, and leveraging AI (Copilot) to accelerate the outlining of discrete concept/data chunks, which were then technically validated by the SMEs.
 <br><br/>
-* **Real-Time Telemetry:** In the synchronous sessions, I built in "air time" and live knowledge checks. This acted as system telemetry, allowing the instructor to provide "just-in-time" enablement if a cohort struggled with a compliance concept.
+* **Real-Time Telemetry:**
+  * In the **asynchronous (solo) e-learning**, I built in formative assessments (knowledge checks) with evaluative feedback at key junctures throughout the course.
+  * In the **synchronous (VILT/ILT) sessions**, I built in "air time" for short peer-to-peer activities and live knowledge checks.
+  * These acted as system telemetry, allowing the learner to immediately implement feedback during the solo e-learning and the instructor to provide "just-in-time" enablement if a cohort struggled with a concept or skill during the VILT/ILT.
 <br><br/>
-#### Real-Time Telemetry in the Solo e-Learning (Knowledge Checks/Formative Assessment with Real-Time Feedback)
+#### *Real-Time Telemetry in the Solo e-Learning (Knowledge Checks/Formative Assessment with Real-Time Feedback)*
 ![E-Learning TOC and Visual Progression Markers](../Case%20Study%20Assets/05-EBP-QASKC-01.png)
 ![E-Learning TOC and Visual Progression Markers](../Case%20Study%20Assets/06-EBP-QASKC-02.png)
-#### Real-Time Telemetry in the VILT/ILT Sessions (Class Discussions, Group Activities, Knowledge checks)
+#### *Real-Time Telemetry in the VILT/ILT Sessions (Class Discussions, Group Activities, Knowledge checks)*
 ![E-Learning TOC and Visual Progression Markers](../Case%20Study%20Assets/07-EBP-VILTKC-01.png)
 ![E-Learning TOC and Visual Progression Markers](../Case%20Study%20Assets/09-EBP-VILTKC-03.png)
 ![E-Learning TOC and Visual Progression Markers](../Case%20Study%20Assets/10-EBP-VILTKC-04.png)
@@ -158,6 +163,4 @@ The EBP Enablement Architecture successfully removed the internal knowledge bott
 
 ---
 
-### 🔄 Next Steps
 * [⬅️ Return to my Main Portfolio](https://www.amalrshah.com/home)
-* [🔍 View my next Case Study: AWS Docs-as-Code Deployment](../02-aws-docs-as-code/aws-case-study.md) *(Coming Soon)*
