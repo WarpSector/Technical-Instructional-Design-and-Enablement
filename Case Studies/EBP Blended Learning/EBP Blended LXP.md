@@ -95,7 +95,8 @@ Using the 4-MAT framework as the *macro-architecture* and Cognitive Load Theory 
 ![E-Learning TOC and Visual Progression Markers](../Case%20Study%20Assets/06-EBP-QASKC-02.png)
 #### Real-Time Telemetry in the VILT/ILT Sessions (Class Discussions, Group Activities, Knowledge checks)
 ![E-Learning TOC and Visual Progression Markers](../Case%20Study%20Assets/07-EBP-VILTKC-01.png)
-![E-Learning TOC and Visual Progression Markers](../Case%20Study%20Assets/08-EBP-VILTKC-02.png)
+![E-Learning TOC and Visual Progression Markers](../Case%20Study%20Assets/09-EBP-VILTKC-03.png)
+![E-Learning TOC and Visual Progression Markers](../Case%20Study%20Assets/10-EBP-VILTKC-04.png)
 <br><br/>
 ### 3. HOW (Sandboxed (Breakout) Execution & Maximizing Germane Load)
 * **The Sandbox Environment:** The hands-on case studies were the "star of the show." SMEs developed mock workpapers that mirrored the exact participant transaction testing the auditors would perform in the live environment.
