@@ -74,7 +74,7 @@ For our team's critical work in leading the technical and operational transition
 ### 2020 NJIT Virtual Convocation
 Click the image below and skip to timestamp 29:00 for the Board of Overseers Excellence Awards if the video does not start at that timestamp.
 <br><br/>
-<div align="center"><a href="https://youtu.be/70g71c0Ml-g?si=mQWHo2y_mYFhk9tZ&t=1740"><img src="../Case Study Assets/17-NJIT-OSEA.png" width="60%" alt="Watch the 2020 NJIT Virtual Convocation"></a></div>
+<div align="center"><a href="https://youtu.be/70g71c0Ml-g?si=mQWHo2y_mYFhk9tZ&t=1740"><img src="../Case Study Assets/17-NJIT-OSEA.png" width="80%" alt="Watch the 2020 NJIT Virtual Convocation"></a></div>
 <br><br/>
 <br><br/>
 
